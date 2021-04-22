@@ -391,7 +391,7 @@ nav li a::after {
  font-family: Comfortaa", sans-serif;
   font-size: 8pt;
   font-weight: 300;
-  text-align: center;
+  text-align: justify;
 }
 .logo2 p {
  color: black;
