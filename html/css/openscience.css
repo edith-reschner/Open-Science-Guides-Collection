@@ -1,4 +1,4 @@
-@charset "UTF-8";
+-@charset "UTF-8";
 -@font-face {
     font-family: "mulish", helvetica neue, arial, sans-serif;
     src: url(/css/media/media/Mulish-VariableFont_wght.ttf);
@@ -21,7 +21,7 @@
 
 @page :first {
   size: 159mm 229mm;
-  background: url(https://tibhannover.github.io/Open-Science-Guides-Collection/html/images/newcover.png);
+  background: url(https://edith-reschner.github.io/Open-Science-Guides-Collection/html/images/newcover.png);
   background-size: 159mm 229mm;
   display: flex;
   align-items: center;
